@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Привіт я Назар Дробишевський👋
+<p>Я frontend-розробник</p>
+я назар мені 16 років вчусь в коледжі на 2 курсі, на на спеціальності будівництво та цивільна інженерія вчусь в шкм вже 3 роки, мені подобається напевно
+<p>мої Hard скіли: html css figma</p>
+<p>мої Soft скіли: Teamwork teamplayer Cooperation Active listening</p>
 <!--
 **nazardrobishevskii-png/nazardrobishevskii-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
